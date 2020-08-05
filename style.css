@@ -21,7 +21,7 @@
 }
 
 body {
-  background-color: #F7F9FC;
+  background-color: #75B8C8;
   font-family:  'Noto Serif', serif;
   color: #474056;
   font-size: 17px;
@@ -52,7 +52,7 @@ a:hover {
 }
 
 .card {
-  background-color: white;
+  background-color: rgba(255, 250, 255, 0.8);
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
